@@ -450,7 +450,7 @@ button[type="submit"]{
   .nav-list{
     position: fixed;
     top: 0;
-    left: 0;
+    left: -298px;
     bottom: 0;
     background-color: #0050c8;
     transition: all 0.5s;
